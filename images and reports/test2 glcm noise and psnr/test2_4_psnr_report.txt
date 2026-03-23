@@ -5,8 +5,8 @@ PSNR Analysis Report
 Mean: 0
 Variance: 400
 --- PSNR Metrics ---
-PSNR: 22.0914 dB
-MSE: 401.739
+PSNR: 22.0924 dB
+MSE: 401.645
 --- Image Properties ---
 Width: 200
 Height: 200

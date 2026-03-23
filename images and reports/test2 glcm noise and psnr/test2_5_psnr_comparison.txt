@@ -1,9 +1,9 @@
 PSNR vs Noise Variance
 ======================
 
-Variance: 10 -> PSNR: 38.1428 dB, MSE: 9.9725
-Variance: 25 -> PSNR: 34.1251 dB, MSE: 25.1517
-Variance: 50 -> PSNR: 31.1471 dB, MSE: 49.9305
-Variance: 100 -> PSNR: 28.1438 dB, MSE: 99.7002
-Variance: 200 -> PSNR: 25.062 dB, MSE: 202.714
-Variance: 400 -> PSNR: 22.1054 dB, MSE: 400.442
+Variance: 10 -> PSNR: 37.9421 dB, MSE: 10.444
+Variance: 25 -> PSNR: 34.0694 dB, MSE: 25.4766
+Variance: 50 -> PSNR: 31.0808 dB, MSE: 50.6987
+Variance: 100 -> PSNR: 28.0898 dB, MSE: 100.948
+Variance: 200 -> PSNR: 25.0175 dB, MSE: 204.8
+Variance: 400 -> PSNR: 22.0929 dB, MSE: 401.6

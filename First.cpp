@@ -16,6 +16,7 @@
 #include "noise_psnr.h"
 #include "projection.h"
 #include "tests3.h"
+#include "tests4.h"
 
 #ifdef _WIN32
 #include <direct.h>
@@ -31,8 +32,9 @@ int main(int argc, char** argv)
 {
     //Tests1();
     //Tests2();
-    Tests3();
-    /*
+    //Tests3();
+    //Tests4();
+    
     std::string inputPath = argv[1];
     cv::Mat image = cv::imread(inputPath, cv::IMREAD_GRAYSCALE);
 
@@ -77,7 +79,7 @@ int main(int argc, char** argv)
         std::cerr << "Error: " << e.what() << "\n";
         return 1;
     }
-    */
+    
 
     
     

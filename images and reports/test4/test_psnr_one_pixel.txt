@@ -1,0 +1,4 @@
+PSNR for One Pixel Difference
+==============================
+MSE: 1e-06
+PSNR: 108.131 dB

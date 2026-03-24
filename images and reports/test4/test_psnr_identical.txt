@@ -1,0 +1,4 @@
+PSNR for Identical Images
+=========================
+MSE: 0
+PSNR: 1.79769e+308 dB
